@@ -1,16 +1,17 @@
-### Hi there 👋
+ <div align="center">
+  <h1>👨‍✈️ Hey! I am Arda Deliklitaş</h1>
 
-<!--
-**ArdaDeliklitas/ArdaDeliklitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>🚀 I am  front-end developer </b></h4>
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="end"  width="300px" height="210px" src="https://c.tenor.com/2uyENRmiUt0AAAAd/coding.gif"/>
+
+<br/>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vscode,github,linkedin,python,tailwindcss,express,nodejs,mongodb,netlify,react,vite,postman,discord&theme=dark" />
+<br/>
+<br/>
+<div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=ArdaDeliklitas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArdaDeliklitas&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img width="80%" src="https://activity-graph.herokuapp.com/graph?username=ArdaDeliklitas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></div>
